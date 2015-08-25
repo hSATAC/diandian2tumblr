@@ -2,6 +2,8 @@
 
 This tool import yout diandian backup xml into tumblr.
 
+## Usage
+
 1. Get your diandian backup xml from [diandian.com](http://diandian.com) and rename it to `diandian.xml`.
 
 1. [Register a tumblr application](https://www.tumblr.com/oauth/apps) and get your consumer key & secret.

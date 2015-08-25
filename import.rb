@@ -53,7 +53,7 @@ items.each do |item|
         when "link"
           {
             :title => item[:title],
-            :description => item[:text],
+            :description => item[:desc],
             :url => item[:link],
             :date => item[:created_at].iso8601,
             :state => "published"
