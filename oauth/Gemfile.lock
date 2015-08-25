@@ -1,0 +1,17 @@
+GIT
+  remote: https://gist.github.com/4577106.git
+  revision: bf97338a553662f155c81cfcecf25b34c88bcccc
+  specs:
+    generate-tumblr-oauth-token (0.0.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    oauth (0.4.7)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  generate-tumblr-oauth-token!
+  oauth
